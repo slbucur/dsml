@@ -1,0 +1,183 @@
+ip, hostname, installation, installation_id, customer, customer_id, ip_range
+193.58.12.14,AEGONL56VA,KNAB PRD,453,KNAB,670,193.58.12.0/26-Cegeka:0
+193.58.12.15,AEGONL55VB,KNAB PRD,453,KNAB,670,193.58.12.0/26-Cegeka:0
+193.58.12.18,VS-Terumo,TERUMO.NETWORK,978,Terumo Europe,1156,193.58.12.0/26-Cegeka:0
+193.58.12.183,VS-VMW-EXDEB1,VMW,275,Vmw,628,193.58.12.128/25-Cegeka:0
+193.58.12.185,VS-VMW-EXDEB1,VMW,275,Vmw,628,193.58.12.128/25-Cegeka:0
+193.58.12.186,VS-VMW-EXDEB1,VMW,275,Vmw,628,193.58.12.128/25-Cegeka:0
+193.58.12.23,VS-Independer,Independer01,2230,Independer,2019,193.58.12.0/26-Cegeka:0
+193.58.12.28,be-cegekabp2-rtr,GDYN.Housing and networking,2076,Goodyear Nederland BV,1804,193.58.12.0/26-Cegeka:0
+193.58.12.37,,CSC PPP Atrias Phase 1,2551,CSC,2117,193.58.12.0/26-Cegeka:0
+193.58.12.40,VS-Rivierduinen,RIVI.Networking,2138,Rivierduinen,1998,193.58.12.0/26-Cegeka:0
+193.58.12.41,,NIBC,350,NIBC,669,193.58.12.0/26-Cegeka:0
+193.58.12.51,cghasfw12,CFE.Network,1542,Continental Foods,1555,193.58.12.0/26-Cegeka:0
+193.58.12.52,cghasdmvpn12,CFE.Network,1542,Continental Foods,1555,193.58.12.0/26-Cegeka:0
+193.58.12.55,VS-DNATA,DNATA,2177,dnata,2012,193.58.12.0/26-Cegeka:0
+193.58.12.6,VS-Assurcard,ASSURCARD,279,Assurcard,612,193.58.12.0/26-Cegeka:0
+193.58.12.8,ALEU-OOB-R01,ARGE.3PRT.GETRONICS,1354,Argenta,569,193.58.12.0/26-Cegeka:0
+193.58.13.117,svintscrp8lic01,Ventouris-PRD,389,Ventouris,629,193.58.13.112/28-Cegeka:0
+193.58.13.7,WMS-M42-01,De Stroomlijn,982,De Stroomlijn,1439,193.58.13.0/29-Cegeka:0
+212.113.65.17,ITHOST8,DLL.NON.CRITICAL,306,Dll,641,212.113.65.0/27-Cegeka:0
+212.113.65.19,ITHOST8,DLL.NON.CRITICAL,306,Dll,641,212.113.65.0/27-Cegeka:0
+212.113.65.29,PILOT,Inside Software,1022,Inside Software,1348,212.113.65.0/27-Cegeka:0
+212.113.66.100,cghasfw11,CFE.Network,1542,Continental Foods,1555,212.113.66.0/25-Cegeka:0
+212.113.66.101,cghasdmvpn11,CFE.Network,1542,Continental Foods,1555,212.113.66.0/25-Cegeka:0
+212.113.66.11,EP-NET-BE-CGK-FW-01,Euroports Others,2233,Euroports Belgium NV,1775,212.113.66.0/25-Cegeka:0
+212.113.66.30,BE-FIR-001-CLUS,SIBELCO NETWORK,728,Sibelco,640,212.113.66.0/25-Cegeka:0
+212.113.66.35,AT-Hasselt-PA1,Attero.Networking,1474,Attero,1582,212.113.66.0/25-Cegeka:0
+212.113.66.37,,CSC PPP Atrias Phase 1,2551,CSC,2117,212.113.66.0/25-Cegeka:0
+212.113.66.4,XAAHUBR2BRU,Aviapartner,384,Aviapartner,681,212.113.66.0/25-Cegeka:0
+212.113.66.41,Hasselt VPN Gateway,TRAN.Networking,2306,Transavia,924,212.113.66.0/25-Cegeka:0
+212.113.66.52,BE-HAS-FLO-F0001,Flore.Networking,2487,Flore NV,2067,212.113.66.0/25-Cegeka:0
+212.113.66.53,be-cegekabp1-rtr,GDYN.Housing and networking,2076,Goodyear Nederland BV,1804,212.113.66.0/25-Cegeka:0
+212.113.66.76,VS-DLL-FRONT,DLL.BUS.IMP,305,Dll,641,212.113.66.0/25-Cegeka:0
+212.113.66.78,AEGONL55VA,KNAB PRD,453,KNAB,670,212.113.66.0/25-Cegeka:0
+212.113.66.79,AEGONL56VB,KNAB PRD,453,KNAB,670,212.113.66.0/25-Cegeka:0
+212.113.67.100,vs_telenet-sslvpn.cegeka.com-443,Telenet,928,Telenet,1253,212.113.67.64/26-Cegeka:0
+212.113.67.100,vs_telenet-sslvpn.cegeka.com-80,Telenet,928,Telenet,1253,212.113.67.64/26-Cegeka:0
+212.113.67.101,vs_korfina-sslvpn.cegeka.com-443,KORFINA SLA B,39,Korfina,84,212.113.67.64/26-Cegeka:0
+212.113.67.101,vs_korfina-sslvpn.cegeka.com-80,KORFINA SLA B,39,Korfina,84,212.113.67.64/26-Cegeka:0
+212.113.67.102,vs_webvpn.benelux.be-443,SG Benelux Hosted,1748,SG Benelux,1761,212.113.67.64/26-Cegeka:0
+212.113.67.102,vs_webvpn.benelux.be-80,SG Benelux Hosted,1748,SG Benelux,1761,212.113.67.64/26-Cegeka:0
+212.113.67.104,vs_ventouris-sslvpn.cegeka.com-443,Ventouris,280,Ventouris,629,212.113.67.64/26-Cegeka:0
+212.113.67.104,vs_ventouris-sslvpn.cegeka.com-80,Ventouris,280,Ventouris,629,212.113.67.64/26-Cegeka:0
+212.113.67.105,vs_vgg-sslvpn.cegeka.com-443,VGG,220,Vgg,538,212.113.67.64/26-Cegeka:0
+212.113.67.105,vs_vgg-sslvpn.cegeka.com-80,VGG,220,Vgg,538,212.113.67.64/26-Cegeka:0
+212.113.67.107,vs_vsh-sslvpn.cegeka.com-443,VSH Fittings - General hosting services,329,Vsh Fittings,654,212.113.67.64/26-Cegeka:0
+212.113.67.107,vs_vsh-sslvpn.cegeka.com-80,VSH Fittings - General hosting services,329,Vsh Fittings,654,212.113.67.64/26-Cegeka:0
+212.113.67.108,vs_vtv-sslvpn.cegeka.com-443,Vlaamse Tennisverening,227,Vtv,555,212.113.67.64/26-Cegeka:0
+212.113.67.108,vs_vtv-sslvpn.cegeka.com-80,Vlaamse Tennisverening,227,Vtv,555,212.113.67.64/26-Cegeka:0
+212.113.67.109,vs_pvned-sslvpn.cegeka.com-443,PVNED.NoSLA,2259,PVNED Holding BV,2021,212.113.67.64/26-Cegeka:0
+212.113.67.109,vs_pvned-sslvpn.cegeka.com-80,PVNED.NoSLA,2259,PVNED Holding BV,2021,212.113.67.64/26-Cegeka:0
+212.113.67.111,vs_sslvpn.ziut.nl-443,Ziut.PRD.Networking,1745,Ziut,645,212.113.67.64/26-Cegeka:0
+212.113.67.111,vs_sslvpn.ziut.nl-80,Ziut.PRD.Networking,1745,Ziut,645,212.113.67.64/26-Cegeka:0
+212.113.67.112,vs_luminus-sslvpn.cegeka.com-80,LUMINUS,187,EDF Luminus,450,212.113.67.64/26-Cegeka:0
+212.113.67.112,vs_luminus-sslvpn.cegeka.com-443,LUMINUS,187,EDF Luminus,450,212.113.67.64/26-Cegeka:0
+212.113.67.113,vs_provincie-sslvpn.cegeka.com-443,PROVINCIE LIMBURG,245,Provincie Limburg,576,212.113.67.64/26-Cegeka:0
+212.113.67.113,vs_provincie-sslvpn.cegeka.com-80,PROVINCIE LIMBURG,245,Provincie Limburg,576,212.113.67.64/26-Cegeka:0
+212.113.67.114,vs_sslvpn.avrn.nl-443,AVRN.Network,1491,AVRN,1587,212.113.67.64/26-Cegeka:0
+212.113.67.114,vs_sslvpn.avrn.nl-80,AVRN.Network,1491,AVRN,1587,212.113.67.64/26-Cegeka:0
+212.113.67.115,vs_cgkvpn.ipc.be-80,IPC.PRD.GOLD,1579,International Post Corporation,1624,212.113.67.64/26-Cegeka:0
+212.113.67.115,vs_cgkvpn.ipc.be-443,IPC.PRD.GOLD,1579,International Post Corporation,1624,212.113.67.64/26-Cegeka:0
+212.113.67.116,vs_steinhoff-sslvpn.cegeka.com-80,Steinhoff.CBX.PRD,1135,Steinhoff Europe AG,1539,212.113.67.64/26-Cegeka:0
+212.113.67.116,vs_steinhoff-sslvpn.cegeka.com-443,Steinhoff.CBX.PRD,1135,Steinhoff Europe AG,1539,212.113.67.64/26-Cegeka:0
+212.113.67.117,vs_bnpff-sslvpn.cegeka.com-443,STAID General DC Network,2050,BNP Paribas Factoring,1782,212.113.67.64/26-Cegeka:0
+212.113.67.117,vs_bnpff-sslvpn.cegeka.com-80,STAID General DC Network,2050,BNP Paribas Factoring,1782,212.113.67.64/26-Cegeka:0
+212.113.67.118,vs_weeeforum-sslvpn.cegeka.com-80,WEEE FORUM,244,Weee Forum,574,212.113.67.64/26-Cegeka:0
+212.113.67.118,vs_weeeforum-sslvpn.cegeka.com-443,WEEE FORUM,244,Weee Forum,574,212.113.67.64/26-Cegeka:0
+212.113.67.120,vs_thuiswerken.juridischloket.nl_80,JULO.Infra.Workplaces,1203,JULO,1544,212.113.67.64/26-Cegeka:0
+212.113.67.120,vs_thuiswerken.juridischloket.nl_443,JULO.Infra.Workplaces,1203,JULO,1544,212.113.67.64/26-Cegeka:0
+212.113.67.121,vs_vpn.independer.nl-80,Independer01,2230,Independer,2019,212.113.67.64/26-Cegeka:0
+212.113.67.121,vs_vpn.independer.nl-443,Independer01,2230,Independer,2019,212.113.67.64/26-Cegeka:0
+212.113.67.122,vs_vpndr.independer.nl-80,Independer-DR01,2253,Independer,2019,212.113.67.64/26-Cegeka:0
+212.113.67.122,vs_vpndr.independer.nl-443,Independer-DR01,2253,Independer,2019,212.113.67.64/26-Cegeka:0
+212.113.67.124,vs_vpn.sbb.be-80,SBB,2314,SBB,2065,212.113.67.64/26-Cegeka:0
+212.113.67.124,vs_vpn.sbb.be-443,SBB,2314,SBB,2065,212.113.67.64/26-Cegeka:0
+212.113.67.125,vs_eis-sslvpn.cegeka.com-443,Euroports Others,2233,Euroports Belgium NV,1775,212.113.67.64/26-Cegeka:0
+212.113.67.125,vs_eis-sslvpn.cegeka.com-80,Euroports Others,2233,Euroports Belgium NV,1775,212.113.67.64/26-Cegeka:0
+212.113.67.65,vs_vpn.terumo-europe.com-443,TERUMO.NETWORK,978,Terumo Europe,1156,212.113.67.64/26-Cegeka:0
+212.113.67.65,vs_vpn.terumo-europe.com-80,TERUMO.NETWORK,978,Terumo Europe,1156,212.113.67.64/26-Cegeka:0
+212.113.67.66,vs_sslvpn.aviapartner.aero-443,Aviapartner,384,Aviapartner,681,212.113.67.64/26-Cegeka:0
+212.113.67.66,vs_sslvpn.aviapartner.aero-80,Aviapartner,384,Aviapartner,681,212.113.67.64/26-Cegeka:0
+212.113.67.67,vs_acerta-sslvpn.cegeka.com-80,ACERTA PUBLIC,309,Acerta Public,643,212.113.67.64/26-Cegeka:0
+212.113.67.67,vs_acerta-sslvpn.cegeka.com-443,ACERTA PUBLIC,309,Acerta Public,643,212.113.67.64/26-Cegeka:0
+212.113.67.68,vs_assurcard-sslvpn.cegeka.com-443,ASSURCARD,279,Assurcard,612,212.113.67.64/26-Cegeka:0
+212.113.67.68,vs_assurcard-sslvpn.cegeka.com-80,ASSURCARD,279,Assurcard,612,212.113.67.64/26-Cegeka:0
+212.113.67.70,vs_extranet.bewel.be-443,Bewel,260,Bewel,603,212.113.67.64/26-Cegeka:0
+212.113.67.70,vs_extranet.bewel.be-80,Bewel,260,Bewel,603,212.113.67.64/26-Cegeka:0
+212.113.67.72,vs_coda-sslvpn.cegeka.com-80,CODA PROD,262,Coda,611,212.113.67.64/26-Cegeka:0
+212.113.67.72,vs_coda-sslvpn.cegeka.com-443,CODA PROD,262,Coda,611,212.113.67.64/26-Cegeka:0
+212.113.67.73,vs_sslvpntest.avr.nl-443,AVRN.Network,1491,AVRN,1587,212.113.67.64/26-Cegeka:0
+212.113.67.74,vs_cvwarehouse-sslvpn.cegeka.com-80,Cvwarehouse Premium,733,Cvwarehouse Nv,1106,212.113.67.64/26-Cegeka:0
+212.113.67.74,vs_cvwarehouse-sslvpn.cegeka.com-443,Cvwarehouse Premium,733,Cvwarehouse Nv,1106,212.113.67.64/26-Cegeka:0
+212.113.67.75,vs_vpn.delta.nl-443,DLTA,903,Delta,1245,212.113.67.64/26-Cegeka:0
+212.113.67.75,vs_vpn.delta.nl-80,DLTA,903,Delta,1245,212.113.67.64/26-Cegeka:0
+212.113.67.76,vs_demetris-sslvpn.cegeka.com-80,Demetris hosting,449,Demetris,696,212.113.67.64/26-Cegeka:0
+212.113.67.76,vs_demetris-sslvpn.cegeka.com-443,Demetris hosting,449,Demetris,696,212.113.67.64/26-Cegeka:0
+212.113.67.77,vs_portaal.degoedewoning.nl_80,GOWO_Network,2170,Woningstichting De Goede Woning,2009,212.113.67.64/26-Cegeka:0
+212.113.67.77,vs_portaal.degoedewoning.nl_443,GOWO_Network,2170,Woningstichting De Goede Woning,2009,212.113.67.64/26-Cegeka:0
+212.113.67.78,vs_tabsh-sslvpn.cegeka.com-443,TABS Holland.network.lan,1546,TABS Holland,1614,212.113.67.64/26-Cegeka:0
+212.113.67.78,vs_tabsh-sslvpn.cegeka.com-80,TABS Holland.network.lan,1546,TABS Holland,1614,212.113.67.64/26-Cegeka:0
+212.113.67.79,vs_remote.ewals.com-80,Ewals.Networking,1765,Ecc,621,212.113.67.64/26-Cegeka:0
+212.113.67.79,vs_remote.ewals.com-443,Ewals.Networking,1765,Ecc,621,212.113.67.64/26-Cegeka:0
+212.113.67.80,vs_hemovigil-fagg-afmps.cegeka.com-443,FAGG,256,Fagg,601,212.113.67.64/26-Cegeka:0
+212.113.67.80,vs_hemovigil-fagg-afmps.cegeka.com-80,FAGG,256,Fagg,601,212.113.67.64/26-Cegeka:0
+212.113.67.81,vs_vpn-test.terumo-europe.com-443,TERUMO.NETWORK,978,Terumo Europe,1156,212.113.67.64/26-Cegeka:0
+212.113.67.82,vs_gamma-sslvpn.cegeka.com-443,Gamma Dedicated hosting,873,Gamma,1228,212.113.67.64/26-Cegeka:0
+212.113.67.82,vs_gamma-sslvpn.cegeka.com-80,Gamma Dedicated hosting,873,Gamma,1228,212.113.67.64/26-Cegeka:0
+212.113.67.84,vs_creditmoderne-sslvpn.cegeka.com_80,CMOD Production,1554,Credit Moderne,1616,212.113.67.64/26-Cegeka:0
+212.113.67.84,vs_creditmoderne-sslvpn.cegeka.com_443,CMOD Production,1554,Credit Moderne,1616,212.113.67.64/26-Cegeka:0
+212.113.67.86,vs_imes-sslvpn.cegeka.com-443,IMES,342,Imes,659,212.113.67.64/26-Cegeka:0
+212.113.67.86,vs_imes-sslvpn.cegeka.com-80,IMES,342,Imes,659,212.113.67.64/26-Cegeka:0
+212.113.67.88,vs_webvpn.deltalloydlife.be-443,DLL.LAN.DC,378,Dll,641,212.113.67.64/26-Cegeka:0
+212.113.67.88,vs_webvpn.deltalloydlife.be-80,DLL.LAN.DC,378,Dll,641,212.113.67.64/26-Cegeka:0
+212.113.67.89,vs_mobilexpense-sslvpn.cegeka.com-443,MOBILEXPENSE,202,Mobileexpense,491,212.113.67.64/26-Cegeka:0
+212.113.67.89,vs_mobilexpense-sslvpn.cegeka.com-80,MOBILEXPENSE,202,Mobileexpense,491,212.113.67.64/26-Cegeka:0
+212.113.67.90,vs_molenbergnatie-sslvpn.cegeka.com-80,Molenbergnatie,989,Molenbergnatie,1222,212.113.67.64/26-Cegeka:0
+212.113.67.90,vs_molenbergnatie-sslvpn.cegeka.com-443,Molenbergnatie,989,Molenbergnatie,1222,212.113.67.64/26-Cegeka:0
+212.113.67.91,vs_knab-sslvpn.cegeka.com-80,KNAB PRD,453,KNAB,670,212.113.67.64/26-Cegeka:0
+212.113.67.91,vs_knab-sslvpn.cegeka.com-443,KNAB PRD,453,KNAB,670,212.113.67.64/26-Cegeka:0
+212.113.67.93,vs_csc-atriasppp-sslvpn.cegeka.com-443,CSC PPP Atrias Phase 1,2551,CSC,2117,212.113.67.64/26-Cegeka:0
+212.113.67.93,vs_csc-atriasppp-sslvpn.cegeka.com-80,CSC PPP Atrias Phase 1,2551,CSC,2117,212.113.67.64/26-Cegeka:0
+212.113.67.94,vs_pi-sslvpn.cegeka.com-443,Private_Insurer,867,Private Insurer,1229,212.113.67.64/26-Cegeka:0
+212.113.67.94,vs_pi-sslvpn.cegeka.com-80,Private_Insurer,867,Private Insurer,1229,212.113.67.64/26-Cegeka:0
+212.113.67.95,vs_vpn.recytyre.be-443,RECY.Hosting servers,1360,Recytyre vzw,1556,212.113.67.64/26-Cegeka:0
+212.113.67.95,vs_vpn.recytyre.be-80,RECY.Hosting servers,1360,Recytyre vzw,1556,212.113.67.64/26-Cegeka:0
+212.113.67.96,vs_renta-sslvpn.cegeka.com-443,Renta PRD,1004,Renta Solutions,702,212.113.67.64/26-Cegeka:0
+212.113.67.96,vs_renta-sslvpn.cegeka.com-80,Renta PRD,1004,Renta Solutions,702,212.113.67.64/26-Cegeka:0
+212.113.67.98,vs_rvrb-sslvpn.cegeka.com-80,RVRB,1033,RVRB,1460,212.113.67.64/26-Cegeka:0
+212.113.67.98,vs_rvrb-sslvpn.cegeka.com-443,RVRB,1033,RVRB,1460,212.113.67.64/26-Cegeka:0
+212.113.67.99,vs_fagg-sslvpn.cegeka.com-80,FAGG,256,Fagg,601,212.113.67.64/26-Cegeka:0
+212.113.67.99,vs_fagg-sslvpn.cegeka.com-443,FAGG,256,Fagg,601,212.113.67.64/26-Cegeka:0
+212.113.68.161,vs_pinguin-webvpn.cegeka.com-80,GRNY.PRD.GOLD,2483,Greenyard Frozen Belgium,2072,212.113.68.160/28-Cegeka:0
+212.113.68.161,vs_pinguin-webvpn.cegeka.com-443,GRNY.PRD.GOLD,2483,Greenyard Frozen Belgium,2072,212.113.68.160/28-Cegeka:0
+212.113.68.162,vs_portal.cict.info-80,TABS Holland.network.lan,1546,TABS Holland,1614,212.113.68.160/28-Cegeka:0
+212.113.68.162,vs_portal.cict.info-443,TABS Holland.network.lan,1546,TABS Holland,1614,212.113.68.160/28-Cegeka:0
+212.113.68.163,vs_suppliers.cict.info_443,TABS.Networking,2234,TABS Holland,1614,212.113.68.160/28-Cegeka:0
+212.113.68.163,vs_suppliers.cict.info_80,TABS.Networking,2234,TABS Holland,1614,212.113.68.160/28-Cegeka:0
+212.113.79.148,jiraicdecegeka,JNSN.Jira,2080,Janssen Pharmaceutica,1805,212.113.79.144/28-Cegeka:0
+212.113.86.11,VS-Eurocontrol,EUROCONTROL,222,Eurocontrol,41,212.113.86.0/24-Cegeka:0
+212.113.86.13,VS-PVNED,PVNED.NoSLA,2259,PVNED Holding BV,2021,212.113.86.0/24-Cegeka:0
+212.113.86.14,VS-Vangansewinkel,VGG,220,Vgg,538,212.113.86.0/24-Cegeka:0
+212.113.86.16,VS-AVRN,AVRN.Network,1491,AVRN,1587,212.113.86.0/24-Cegeka:0
+212.113.86.17,VS-Bewel,Bewel,260,Bewel,603,212.113.86.0/24-Cegeka:0
+212.113.86.18,VS-CreditModerne,CMOD Production,1554,Credit Moderne,1616,212.113.86.0/24-Cegeka:0
+212.113.86.2,VS-EWALS,Ewals.CGK.Management,2105,Ecc,621,212.113.86.0/24-Cegeka:0
+212.113.86.23,BE-HAS-KNB-F0001,KNAB.1.PRD.GOLD,813,KNAB,670,212.113.86.0/24-Cegeka:0
+212.113.86.24,BE-HAS-KNB-F0001,KNAB.1.PRD.GOLD,813,KNAB,670,212.113.86.0/24-Cegeka:0
+212.113.86.241,NA,NIBC,350,NIBC,669,212.113.86.0/24-Cegeka:0
+212.113.86.25,VS-Aviapartner,Aviapartner,384,Aviapartner,681,212.113.86.0/24-Cegeka:0
+212.113.86.26,VS-Luminus,Luminus Prd,1534,EDF Luminus,450,212.113.86.0/24-Cegeka:0
+212.113.86.31,VS-RVR,RVRB.NETWORK,1032,RVRB,1460,212.113.86.0/24-Cegeka:0
+212.113.86.32,VS-ZIUT,Ziut.PRD.Networking,1745,Ziut,645,212.113.86.0/24-Cegeka:0
+212.113.86.33,VS-FETIM,Fetim Production,1775,Fetim,995,212.113.86.0/24-Cegeka:0
+212.113.86.36,VS-EUROPORTS,Euroports TOS PRD,1781,Euroports Belgium NV,1775,212.113.86.0/24-Cegeka:0
+212.113.86.38,VS-KMDA,KMDA Remote MGT,991,KMDA,1217,212.113.86.0/24-Cegeka:0
+212.113.86.39,VS-SBB,SBB,2314,SBB,2065,212.113.86.0/24-Cegeka:0
+212.113.86.40,VS-DBZ,DBZ PROD,1431,Departement Bestuurszaken,1580,212.113.86.0/24-Cegeka:0
+212.113.86.41,VS-HJL,JULO.PRD.WebTop,1144,JULO,1544,212.113.86.0/24-Cegeka:0
+212.113.86.42,VS-WSF,WSF Dedicated,1986,Waarborg En Sociaal Fonds,959,212.113.86.0/24-Cegeka:0
+212.113.86.44,VS-PontMeyer,TABS Holland.network.lan,1546,TABS Holland,1614,212.113.86.0/24-Cegeka:0
+212.113.86.45,VS-VDM,VDM.IS.SEC.GOLD,952,Vandemoortele,1247,212.113.86.0/24-Cegeka:0
+212.113.86.47,VS-IPC,IPC.PRD.GOLD,1579,International Post Corporation,1624,212.113.86.0/24-Cegeka:0
+212.113.86.48,VS-BDO,BDO-HOSTING637,1552,BDO,1545,212.113.86.0/24-Cegeka:0
+212.113.86.49,VS-ATRIAS,Atri_Netwerk,2137,Atrias CVBA,2000,212.113.86.0/24-Cegeka:0
+212.113.86.5,VS-CSC-ATRIAS,CSC PPP Atrias Phase 1,2551,CSC,2117,212.113.86.0/24-Cegeka:0
+212.113.86.59,VS-DNWB,DNWB,1023,DNWB,1433,212.113.86.0/24-Cegeka:0
+212.113.86.60,VS-Nidera,NIDA LAN,1976,Nidera,1765,212.113.86.0/24-Cegeka:0
+212.113.86.62,VS-ELLIS,E-llis - Dedicated servers,1198,E-llis,1318,212.113.86.0/24-Cegeka:0
+212.113.86.64,VS-Transavia,TRAN.Networking,2306,Transavia,924,212.113.86.0/24-Cegeka:0
+212.113.86.66,VSHForti,VSH Fittings - Shared Power Hosting,1249,Vsh Fittings,654,212.113.86.0/24-Cegeka:0
+212.113.86.66,,VSH Fittings - General hosting services,329,Vsh Fittings,654,212.113.86.0/24-Cegeka:0
+212.113.86.66,,VSH Fittings - General hosting services,329,Vsh Fittings,654,212.113.86.0/24-Cegeka:0
+212.113.86.67,VS-Sligro,Sligro,901,Sligro,901,212.113.86.0/24-Cegeka:0
+212.113.86.69,vs_argenta-sslvpn.cegeka.com-443,ARGE.GOUD.NW,1358,Argenta,569,212.113.86.0/24-Cegeka:0
+212.113.86.69,vs_argenta-sslvpn.cegeka.com-80,ARGE.GOUD.NW,1358,Argenta,569,212.113.86.0/24-Cegeka:0
+212.113.86.70,VS-ASL,SAPHANA,2498,ASL Airlines Belgium,2075,212.113.86.0/24-Cegeka:0
+212.113.86.73,SVNIDRTRP001,NIDA LAN,1976,Nidera,1765,212.113.86.0/24-Cegeka:0
+212.113.86.76,VS-CI00016967,GRNY.PRD.GOLD,2483,Greenyard Frozen Belgium,2072,212.113.86.0/24-Cegeka:0
+212.113.86.79,SVELLPRDS02,E-llis - Dedicated servers,1198,E-llis,1318,212.113.86.0/24-Cegeka:0
+212.113.86.8,VS-COFO,CFE.Network,1542,Continental Foods,1555,212.113.86.0/24-Cegeka:0
+212.113.86.9,VS-MXP,Networking and Security,1767,Mobileexpense,491,212.113.86.0/24-Cegeka:0
+212.113.88.225,SMARTIV-TEST,Spronken Medical,1379,Spronken Medical,1573,212.113.88.224/28-Cegeka:0
+

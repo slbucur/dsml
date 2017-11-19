@@ -1,5 +1,10 @@
 jupyter==1.0.0
 pandas
 matplotlib
-psychopg2
+psycopg2
 sqlalchemy
+lxml
+html5lib
+BeautifulSoup4
+xlrd
+openpyxl

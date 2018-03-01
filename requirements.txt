@@ -8,3 +8,5 @@ html5lib
 BeautifulSoup4
 xlrd
 openpyxl
+numpy
+scikit-learn
